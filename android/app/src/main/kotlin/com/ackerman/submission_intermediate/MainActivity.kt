@@ -1,4 +1,4 @@
-package com.example.submission_intermediate
+package com.ackerman.submission_intermediate
 
 import io.flutter.embedding.android.FlutterActivity
 
